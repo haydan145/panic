@@ -1,13 +1,19 @@
 A Windows 10/11 panic button that mutes volume and closes all windows upon key press. Restores upon other key.
-Download the PanicButtonSetup.exe from Releases (on the right of the page)
+
+Download the PanicButtonSetup.exe from Releases (on the right of the page).
+
 Run it and toggle startup with device (Recommended)
+
 Open the app from Start:
 
 <img width="407" height="200" alt="image" src="https://github.com/user-attachments/assets/6265c516-795b-43d4-a735-d02366f6a17a" />
 
 **KEYBINDS**
+
 Press Control+Alt+S to mute volume and close all windows then open an academic website.
+
 Press Control+Alt+D to restore all windows and volume.
+
 Note: restoring does not close academic website
 
 To exit app, right click on it in system tray and press Exit.
