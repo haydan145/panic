@@ -1,5 +1,5 @@
-An actually good windows panic button. Simple to use. Mutes volume and closes all windows upon key press. Restores upon other key.
-Download the PanicButtonSetup.exe
+A Windows 10/11 panic button that mutes volume and closes all windows upon key press. Restores upon other key.
+Download the PanicButtonSetup.exe from Releases.
 Run it and toggle startup with device (Recommended)
 Open the app from Start:
 
