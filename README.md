@@ -2,6 +2,7 @@ An actually good windows panic button. Simple to use. Mutes volume and closes al
 Download the PanicButtonSetup.exe
 Run it and toggle startup with device (Recommended)
 Open the app from Start:
+
 <img width="407" height="200" alt="image" src="https://github.com/user-attachments/assets/6265c516-795b-43d4-a735-d02366f6a17a" />
 
 **KEYBINDS**
